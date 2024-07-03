@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">PermissionsJetpackCompose</string>
+
+    <string name="header_welcome">BIENVENIDO</string>
+    <string name="header_indication">Es necesario que acepte algunos permisos para poder utilizar la aplicación</string>
+
+    <string name="permission_nameLocation">UBICACIÓN</string>
+    <string name="permission_descriptionLocation">Necesitamos acceder a su ubicación para poder mostrarle información relevante a su área.</string>
+    <string name="permission_statusLocation">Acceso a la ubicación</string>
+
+    <string name="permission_nameCamera">CÁMARA</string>
+    <string name="permission_descriptionCamera">Necesitamos acceder a su cámara para que pueda tomar y compartir fotos.</string>
+    <string name="permission_statusCamera">Acceso a la cámara</string>
+
+    <string name="permission_nameMicrophone">MICRÓFONO</string>
+    <string name="permission_descriptionMicrophone">Necesitamos acceder a su micrófono para que pueda grabar y compartir audios.</string>
+    <string name="permission_statusMicrophone">Acceso al micrófono</string>
+
+    <string name="permission_nameReadMemory">LEER MEMORIA EXTERNA</string>
+    <string name="permission_descriptionReadMemory">Necesitamos acceder a su memoria externa para poder leer archivos.</string>
+    <string name="permission_statusReadMemory">Acceso para leer la memoria externa</string>
+
+    <string name="permission_nameWriteMemory">ESCRIBIR MEMORIA EXTERNA</string>
+    <string name="permission_descriptionWriteMemory">Necesitamos acceder a su memoria externa para poder guardar archivos.</string>
+    <string name="permission_statusWriteMemory">Acceso para escribir en la memoria externa</string>
+
+    <string name="permission_nameContacts">CONTACTOS</string>
+    <string name="permission_descriptionContacts">Necesitamos acceder a sus contactos para que pueda compartir contenido con sus amigos.</string>
+    <string name="permission_statusContacts">Acceso a los contactos</string>
 </resources>
